@@ -14,7 +14,7 @@ Esta é uma API RESTful desenvolvida com Spring Boot. Seu objetivo é identifica
 
 -  **Cálculo de Intervalos**: Identifica os produtores com o menor e o maior intervalo entre vitórias na premiação;
 
--  **Endpoint REST**: Fornece um endpoint `/api/movies/producer-intervals` para verificar o resultado, retornando um JSON contendo os produtores com menor intervalo e o com maior intervalo entre vitórias.
+-  **Endpoint REST**: Fornece um endpoint `/api/movies/min-max-winner` para verificar o resultado, retornando um JSON contendo os produtores com menor intervalo e o com maior intervalo entre vitórias.
 
 -  **Logging**: Inclui logs detalhados (SLF4J com Logback) para monitoramento e depuração.
 
