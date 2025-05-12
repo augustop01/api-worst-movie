@@ -87,16 +87,16 @@ api-worst-movie/
 
 ## Configuração e Execução
 
-1.  **Clonar o Repositório**:
+1.  **Clonar o Repositório:**
 	git clone https://github.com/augustop01/api-worst-movie.git
 
-2. **Abrir o repositório**
+2. **Abrir o repositório:**
 	code api-worst-movie
 	
-3.  **Verifique a planilha movielist.csv**
+3.  **Verifique a planilha movielist.csv:**
 	Certifique-se de que os dados da planilha estejam seguindo o cabeçalhoo: (year;title;studios;producers;winner);
 
-4. **Compile e instale as dependências**
+4. **Compile e instale as dependências:**
 	mvn clean install
 
 5. **Execute o projeto:**
