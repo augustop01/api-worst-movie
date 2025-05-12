@@ -122,7 +122,8 @@ api-worst-movie/
             "previousWin": 1990,
             "followingWin": 1991
         }
-    }
+    ]
+}
 ```
 
 ## Licença
